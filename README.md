@@ -1,3 +1,3 @@
 # Towning Documentation
 
-* [Privacy policy](https://github.com/vahurh/towning-docs/privacy-policy.md)
+* [Privacy policy](https://github.com/vahurh/towning-docs/blob/main/privacy-policy.md)
